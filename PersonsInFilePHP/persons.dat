@@ -1,0 +1,17 @@
+O:6:"Person":4:{s:9:"firstName";s:5:"Ivan
+";s:8:"lastName";s:7:"Ivanov
+";s:3:"age";s:3:"23
+";s:7:"address";s:9:"gr.Varna
+";}\nO:6:"Person":4:{s:9:"firstName";s:7:"Petkan
+";s:8:"lastName";s:9:"PEtkanov
+";s:3:"age";s:3:"32
+";s:7:"address";s:9:"gr.Sofia
+";}\nO:6:"Person":4:{s:9:"firstName";s:7:"Matrin
+";s:8:"lastName";s:8:"Marinov
+";s:3:"age";s:3:"44
+";s:7:"address";s:8:"Smqdovo
+";}\nO:6:"Person":4:{s:9:"firstName";s:7:"Georgi
+";s:8:"lastName";s:9:"Stoyanov
+";s:3:"age";s:3:"31
+";s:7:"address";s:9:"Kazanlyk
+";}\n
